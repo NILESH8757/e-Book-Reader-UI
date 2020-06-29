@@ -1,0 +1,25 @@
+body {
+   font-family: Roboto;
+   background: rgb(119,113,223);
+   background: linear-gradient(90deg, rgba(119,113,223,1) 0%, rgba(121,121,134,1) 0%, rgba(80,81,84,1) 38%);
+}
+
+.labels {
+	color: white;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.lib-title{
+	color: #EDF6C3;
+	text-align: center;
+	font-size: 34px;
+	text-shadow: 2px 2px 5px white;
+	font-weight: normal;
+}
+
+h3 {
+	font-style: italic;
+	font-size: 40px;
+	font-weight: solid;
+}
